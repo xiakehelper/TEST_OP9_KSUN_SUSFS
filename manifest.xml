@@ -27,12 +27,4 @@
     <linkfile src="vendor/qcom/opensource/wlan/utils" dest="kernel/msm-5.4/drivers/staging/utils" />
   </project>
   
-  <!-- AnyKernel3 -->
-  <project path="AnyKernel3" name="TheWildJames/AnyKernel3" remote="github" revision="gki-2.0" clone-depth="1" />
-  
-  <!-- kernel_patches -->
-  <project path="kernel_patches" name="TheWildJames/kernel_patches" remote="github" revision="main" clone-depth="1" />
-  
-  <!-- susfs4ksu -->
-  <project path="susfs4ksu" name="simonpunk/susfs4ksu" remote="gitlab" revision="kernel-5.4" clone-depth="1" />
 </manifest>
